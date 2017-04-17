@@ -1,0 +1,8 @@
+{
+	"description": "Modified Solarized Themes", 
+	"url": "https://github.com/nihiven/sublime-solarized", 
+	"platforms": ["*"], 
+	"version": "1.0.0", 
+	"sublime_text": "*", 
+	"dependencies": []
+}
